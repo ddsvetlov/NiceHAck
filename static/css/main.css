@@ -1,0 +1,219 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Libre Baskerville'!important;
+  overflow-x: hidden;
+}
+
+a,
+a:hover,
+a:focus,
+button,
+input,
+button:hover,
+button:active,
+input:focus,
+input:active {
+  text-decoration: none !important;
+  outline: none;
+}
+
+ul,
+div,
+p,
+form,
+input {
+  box-sizing: border-box;
+}
+
+ul, h1 {
+  margin: 0px;
+  padding: 0px;
+}
+
+li {
+  list-style: none;
+}
+
+.clearfix:after {
+  width: 100%;
+  content: '';
+  display: table;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+h1 {
+  padding-top: 100px;
+}
+
+.logo {
+  width: 100px;
+}
+
+.nav-menu {
+  display: flex;
+  align-items: inherit;
+}
+
+.menu {
+  color: #fff;
+  margin-left: 80px;
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.menu:hover {
+  background: gray;
+}
+
+.fa-home {
+  padding-right: 15px;
+}
+
+.fa-angle-down {
+  padding-left: 15px;
+}
+
+.menu-input {
+  border-radius: 5px;
+  border: none;
+  padding: 6px 10px;
+  width: 400px;
+}
+
+.fa-search {
+  color: #fff;
+  padding-left: 100px;
+  padding-right: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.fa-user-circle {
+  color: #fff;
+  padding-left: 180px;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.tabs__list {
+  margin-bottom: 45px;
+  margin-top: 120px;
+}
+
+.tabs__item {
+  color: #000 !important;
+  font-size: 1.267rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  cursor: pointer;
+  display: inline;
+  margin-right: 45px;
+}
+
+.tabs__item {
+  color: #516276
+}
+
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+.tabs__item:last-child {
+  float: right;
+}
+
+.grayborder {
+  color: #fff !important;
+  background: gray;
+  border-radius: 7px;
+  padding: 12px 15px;
+  padding-bottom: 15px;
+}
+
+.tabs__listing {
+  margin-top: 30px;
+}
+
+.tabs__ul {
+  margin-right: 90px;
+  margin-bottom: 40px;
+}
+
+.tabs__li {
+  margin-bottom: 10px;
+}
+
+.tabs__li i {
+  color: #d84d4d;
+  margin-right: 3px;
+}
+
+.btn {
+  width: 160px !important;
+}
+
+#gifs {
+  margin-top: 40px;
+}
+
+.btn-tabs {
+  margin-left: -14px;
+  cursor: pointer;
+}
+
+.tab-map {
+  display: none;
+}
+
+.tab-map img {
+  width: 600px;
+  height: 450px;
+}
+
+.tab-img img {
+  width: 600px;
+  height: 450px;
+}
+
+.inf-item {
+  float: left;
+}
+
+.inf-item:nth-child(2) {
+  margin-left: 50px;
+}
+
+.list {
+  float: left;
+  margin-left: 25px;
+    margin-top: 80px;
+}
+
+.list-item {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
